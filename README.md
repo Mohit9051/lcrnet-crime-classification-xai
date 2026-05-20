@@ -5,7 +5,7 @@ LCRNet — Lightweight CNN + SAS-Transformer for 128-class LAPD crime classifica
 
 Lightweight Crime Recognition Network (CNN + SAS-Transformer) for automatic classification of LAPD crime records into 128 crime categories with full SHAP explainability.
 
-> M.Tech Final End-Semester Project · Mohit Tiwari
+
 
 ---
 
